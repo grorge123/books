@@ -32,6 +32,7 @@
 	│
 	├─06-Git
 	│      learn-github-from-zero.pdf
+	│　　　為你自己學git.pdf
 	│
 	├─07-LaTeX
 	│      LaTeX入门(刘海洋).pdf
